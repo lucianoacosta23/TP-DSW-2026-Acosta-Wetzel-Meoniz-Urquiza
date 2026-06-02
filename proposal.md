@@ -36,7 +36,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Proyecto<br>3. CRUD Artista<br>4. CRUD Genero<br>5. CRUD Reporte <br>6. CRUD Playlist<br>7. CRUD Reseña|
-|CUU/Epic|1. Reseñar de la lista "populares"<br>2. Reportar un usuario o Reseña.<br>3. Realizar una reseña|
+|CUU/Epic|1. Reseñar de la lista "populares"<br>2. Reportar un usuario o Reseña.<br>3. Agregar una playlist ajena a mi perfil|
 
 
 ### Alcance Adicional Voluntario
