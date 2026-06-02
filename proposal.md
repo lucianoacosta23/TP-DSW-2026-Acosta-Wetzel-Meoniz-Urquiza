@@ -4,7 +4,7 @@
 ### Integrantes
 * 50850 - Acosta, Luciano
 * 50730 - Wetzel, Jeffrey 
-* 52250 - Bustos, Fausto
+* 53410 - Meoniz, Facundo
 
 ### Repositorios
 * [frontend app](https://github.com/lucianoacosta23/Frontend-dsw)
